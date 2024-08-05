@@ -1,0 +1,6 @@
+E NOU
+Create github account
+● Create new repository
+● Use git clone your_repo.git
+● Create a new folder Demo and inside a new file
+first_commit.txt
